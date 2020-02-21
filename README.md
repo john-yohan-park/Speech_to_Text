@@ -1,5 +1,5 @@
 # Speech_to_Text_Translator
-Uses the laptop mic to listen for audio inputs to translate what you say to text!
+Uses the laptop mic to listen for audio inputs to translate what you say to text
 
 ## System Requirements
 Name       | Terminal Command
