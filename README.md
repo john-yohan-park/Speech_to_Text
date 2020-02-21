@@ -11,8 +11,8 @@ pyaudio   | `pip3 install pyaudio --global-option="build_ext" --global-option="-
 SpeechRecognition | `pip3 install SpeechRecognition`
 
 ***IMPORTANT:*** 
-You will need to utilize Google's Speech-to-Text Application by accessing
-it via Google Cloud. More on this later. 
+You will need to utilize Google's Speech-to-Text App on Google Cloud by accessing
+it via the Google Cloud Console. More on this later. 
 
 ## Instructions
 - TBA
